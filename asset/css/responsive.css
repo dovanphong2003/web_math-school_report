@@ -1,0 +1,177 @@
+/* tablet (máy tính bảng) */
+@media (max-width: 1023px) and (min-width: 740px) {
+  .main {
+    overflow: hidden;
+  }
+  .girl-wipe {
+    max-width: 690px;
+  }
+  .logo {
+    width: 600px;
+  }
+  .content_university {
+    font-size: 20px;
+    margin-top: 0px;
+  }
+  .img-School_report {
+    width: 400px;
+    height: 150px;
+  }
+  .container-content__math_school-reprot {
+    font-size: 38px;
+  }
+  .profile_list-infomation_container {
+    font-size: 60px;
+  }
+  .img-profile {
+    width: 250px;
+    height: 250px;
+  }
+  .btn-element-list_container {
+    margin-top: 10px;
+  }
+  .infomation_profile-container {
+    font-size: 28px;
+    max-width: 250px;
+  }
+  .class_container_body-content {
+    font-size: 30px;
+  }
+  .attention_container_body-body {
+    font-size: 16px;
+  }
+  .attention_container_body-body2 {
+    font-size: 14px;
+  }
+  .subject-class {
+    font-size: 20px;
+  }
+  .value-subject_class {
+    max-width: 100px;
+    height: 36px;
+  }
+  .class_container_body-content {
+    padding-top: 30px;
+  }
+  .class_cotainer_body-body {
+    padding-bottom: 40px;
+  }
+  .result_container_body-body {
+    width: 120px;
+    height: 120px;
+    font-size: 30px;
+    line-height: 120px;
+    margin-left: 160px;
+  }
+  .button-value_container_body-body {
+    font-size: 22px;
+    width: 200px;
+    height: 60px;
+  }
+}
+
+/*mobile (điện thoại) */
+.main {
+  overflow: hidden;
+}
+@media (max-width: 740px) {
+  .girl-wipe {
+    max-width: 360px;
+  }
+  .logo {
+    width: 340px;
+  }
+  .content_university {
+    font-size: 20px;
+    margin-top: 0px;
+  }
+  .img-School_report {
+    width: 260px;
+    height: 130px;
+  }
+  .container-content__math_school-reprot {
+    font-size: 20px;
+    font-weight: 900;
+  }
+  .profile_list-infomation_container {
+    font-size: 40px;
+  }
+  .img-profile {
+    width: 280px;
+    height: 280px;
+  }
+  .btn-element-list_container {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .infomation_profile-container {
+    font-size: 24px;
+    max-width: 280px;
+    margin-bottom: 40px;
+  }
+  .name_container_header-body {
+    height: 40px;
+  }
+  .container_header-body {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .list-infomation_container_haeder-body {
+    width: 100%;
+  }
+  .profile-container_header-body {
+    width: 100%;
+  }
+  .class_container_body-content {
+    font-size: 30px;
+  }
+  .attention_container_body-body {
+    font-size: 16px;
+  }
+  .attention_container_body-body2 {
+    font-size: 14px;
+  }
+  .subject-class {
+    font-size: 16px;
+    text-align: center;
+  }
+  .value-subject_class {
+    max-width: 40px;
+    height: 36px;
+    font-size: 18px;
+    margin-left: 0px;
+  }
+  .class_container_body-content {
+    padding-top: 30px;
+  }
+  .class_cotainer_body-body {
+    padding-bottom: 40px;
+  }
+  .result_container_body-body {
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+    line-height: 100px;
+    margin-left: 60px;
+  }
+  .button-value_container_body-body {
+    font-size: 14px;
+    width: 120px;
+    height: 60px;
+  }
+  .container-content__math_school-reprot {
+    height: 80px;
+    line-height: 80px;
+  }
+  .container-footer_content {
+    font-size: 28px;
+  }
+  .avatar {
+    width: 50px;
+    height: 50px;
+  }
+}
+
+/*PC ( máy tính )*/
+@media (min-width: 1023px) {
+}
