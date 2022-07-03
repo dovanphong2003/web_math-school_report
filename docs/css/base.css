@@ -14,8 +14,8 @@
 }
 .header-content__logo {
   display: flex;
-  justify-content: center;
   margin-top: 30px;
+  justify-content: center;
 }
 .content_university {
   font-family: "Roboto", sans-serif;
@@ -27,7 +27,7 @@
   margin-top: 10px;
 }
 .icon-university {
-  color: #f06819;
+  color: #f46817;
   font-size: 40px;
   padding: 0px 10px;
 }
@@ -198,7 +198,7 @@
 .button-value_container_body-body:hover {
   background-color: yellow;
   color: #000;
-  opacity: 0.9;
+  opacity: 0.8;
 }
 .line-heigh_container {
   height: 4px;
