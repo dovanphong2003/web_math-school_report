@@ -106,7 +106,7 @@ const functionOnclickResult = function (e) {
     resultBox = document.querySelector(
       ".result_container_body-body"
     ).textContent = "?";
-    alert("Bạn nhập còn thiếu dữ liệu, hãy kiểm tra lại 👌");
+    alert("Bạn nhập còn thiếu dữ liệu, hãy kiểm tra lại. 👌");
   } else {
     resultBox = document.querySelector(
       ".result_container_body-body"
